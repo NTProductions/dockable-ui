@@ -1,1 +1,2 @@
 # dockable-ui
+This script serves as a base for creating a dockable script. It has a few basic UI elements and groups implemented, as well as a dedicated section for adding eventlisteners and property adjustments.
